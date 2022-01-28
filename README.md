@@ -14,6 +14,5 @@
   <img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rd-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rd-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="rd-pic" height="150" style="border-radius:50px;" 
-src="https://3.bp.blogspot.com/-XJyFcZT4ah8/Uxd1QgfUEqI/AAAAAAAAEzo/Zyj9rDvEIIA/s1600/Batman.gif" > 
+  <img align="right" alt="rd-pic" height="150" style="border-radius:50px;"src="https://3.bp.blogspot.com/-XJyFcZT4ah8/Uxd1QgfUEqI/AAAAAAAAEzo/Zyj9rDvEIIA/s1600/Batman.gif" > 
 </div>
