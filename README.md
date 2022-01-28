@@ -2,7 +2,6 @@
 
 - 🦇 batman > superman
 - 😄 Sempre atrás de aprender algo novo!
-- ⚡ Fun fact: sou doido... :)
 
 <div align="center">
   <a href="https://github.com/RodrigoAnjos2004">
