@@ -12,5 +12,5 @@
   <img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rd-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rd-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="rd-pic" height="3 50" style="border-radius:50px;"src="https://c.tenor.com/6TVSwBNBrWEAAAAC/gambit-pose.gif" > 
+  <img align="right" alt="rd-pic" height="350" style="border-radius:50px;"src="https://c.tenor.com/6TVSwBNBrWEAAAAC/gambit-pose.gif" > 
 </div>
